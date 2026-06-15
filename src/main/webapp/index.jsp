@@ -442,7 +442,7 @@
 <body>
     <header class="glass-header">
         <div class="container header-flex">
-            <div class="logo"><i class="fas fa-bolt" style="color: #3b82f6;"></i> NovaMart</div>
+            <div class="logo"><em class="fas fa-bolt" style="color: #3b82f6;"></em> NovaMart</div>
             <div class="nav-links">
                 <a href="#" class="nav-link" data-nav="home">Home</a>
                 <a href="#" class="nav-link" data-nav="shop">Shop</a>
@@ -450,14 +450,14 @@
                 <a href="#" class="nav-link" data-nav="insights">Insights</a>
             </div>
             <div class="search-bar">
-                <i class="fas fa-search" style="color: var(--text-secondary);"></i>
+                <em class="fas fa-search" style="color: var(--text-secondary);"></em>
                 <input type="text" id="globalSearch" placeholder="Search products, categories...">
             </div>
             <div class="action-icons">
                 <div class="icon-circle theme-toggle" id="themeToggle"><i class="fas fa-moon"></i></div>
-                <div class="icon-circle"><i class="far fa-heart"></i></div>
+                <div class="icon-circle"><em class="far fa-heart"></em></div>
                 <div class="icon-circle cart-badge" id="cartIconBtn">
-                    <i class="fas fa-bag-shopping"></i>
+                    <em class="fas fa-bag-shopping"></em>
                     <span class="cart-count-badge" id="cartCountDisplay">0</span>
                 </div>
             </div>
@@ -510,7 +510,7 @@
                                 <div class="time-card"><div class="time-number" id="seconds">00</div><span>Secs</span></div>
                             </div>
                             <div class="price-tag" style="font-size: 32px;">$1,299 <span class="old-price-tag" style="font-size: 20px;">$1,699</span></div>
-                            <button class="btn-primary" id="flashDealBtn" style="margin-top: 20px;">Grab Deal Now <i class="fas fa-arrow-right"></i></button>
+                            <button class="btn-primary" id="flashDealBtn" style="margin-top: 20px;">Grab Deal Now <em class="fas fa-arrow-right"></em></button>
                         </div>
                     </div>
                 </div>
